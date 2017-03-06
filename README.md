@@ -9,9 +9,11 @@ What is it:
 - gets the job of distinct highlight of active tab done (I'm personally using Darcula theme, and this has been 
     a nightmare for me for quite a while, to see the active tab, amongst the others)
 - yes, the highlight colour is somewhat pink, and I'm fine with it :)
+- NOTE: this fork is less pink :)
 
 Installation instructions:
-- Download the latest release jar from https://github.com/tobszarny/ActiveTabHighlighterPlugin/releases
+- Download this release: https://github.com/depsypher/ActiveTabHighlighterPlugin/releases/download/toned-down-purple/ActiveTabHighlighterPlugin.jar
+- Or download the original "pink" release jar from https://github.com/tobszarny/ActiveTabHighlighterPlugin/releases
 - In IntelliJ, go to File>Settings, click Plugins from the side tree.
 - Click "Install plugin from disk" and point the downloaded jar.
 
