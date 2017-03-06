@@ -21,7 +21,7 @@ public class CustomEditorTabColorProvider implements EditorTabColorProvider {
 
     private static final Logger logger = Logger.getInstance(CustomEditorTabColorProvider.class);
 
-    public static final Color HIGHLIGHTED_TAB_BG_COLOUR = new Color(173, 46, 156);
+    public static final Color HIGHLIGHTED_TAB_BG_COLOUR = new Color(100, 60, 140);
 
     @Nullable
     @Override
@@ -40,4 +40,6 @@ public class CustomEditorTabColorProvider implements EditorTabColorProvider {
 
         return fileColorManager.getFileColor(virtualFile);
     }
+
+
 }
